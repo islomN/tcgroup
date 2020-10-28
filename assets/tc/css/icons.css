@@ -1,0 +1,99 @@
+.career-icon{
+  background-image: url("/tc/img/svg/career.svg");
+}
+
+.active-career-icon{
+  background-image: url("/tc/img/svg/hover/career.svg");
+}
+
+.dashboard-icon{
+  background-image: url("/tc/img/svg/dashboards.svg");
+}
+
+.active-dashboard-icon{
+  background-image: url("/tc/img/svg/hover/dashboards.svg");
+}
+
+.document-icon{
+  background-image: url("/tc/img/svg/document.svg");
+}
+
+.active-document-icon{
+  background-image: url("/tc/img/svg/hover/document.svg");
+}
+
+.finances-icon{
+  background-image: url("/tc/img/svg/finances.svg");
+}
+
+.active-finances-icon{
+  background-image: url("/tc/img/svg/hover/finances.svg");
+}
+
+.investments-icon{
+  background-image: url("/tc/img/svg/investments.svg");
+}
+
+.active-investments-icon{
+  background-image: url("/tc/img/svg/hover/investments.svg");
+}
+
+.license-icon{
+  background-image: url("/tc/img/svg/license.svg");
+}
+
+.active-license-icon{
+  background-image: url("/tc/img/svg/hover/license.svg");
+}
+
+.logo-icon{
+  background-image: url("/tc/img/svg/logo.svg");
+}
+
+.active-logo-icon{
+  background-image: url("/tc/img/svg/hover/logo.svg");
+}
+
+.profile-icon{
+  background-image: url("/tc/img/svg/profile.svg");
+}
+
+.active-profile-icon{
+  background-image: url("/tc/img/svg/hover/profile.svg");
+}
+
+.telegram-icon{
+  background-image: url("/tc/img/svg/telegram.svg");
+}
+
+.instagram-icon{
+  background-image: url("/tc/img/svg/instagram.svg");
+}
+
+.facebook-icon{
+  background-image: url("/tc/img/svg/facebook.svg");
+}
+
+.usa-icon{
+  background-image: url("/tc/img/svg/usa.svg");
+}
+.down-icon{
+  background-image: url("/tc/img/svg/down.svg");
+}
+.info-icon {
+  background-image: url("/tc/img/svg/info.svg");
+}
+.balance-icon {
+  background-image: url("/tc/img/svg/balance-icon.svg");
+}
+.balance2-icon {
+  background-image: url("/tc/img/svg/balance2-icon.svg");
+}
+.tc-icon{
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+}
+
+
+

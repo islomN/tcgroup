@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c568a1bb-faf3-44de-9d7f-78d300c69a7a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jT0ivPEpaVzcpZCPPIC4X3GxhI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/tc/img/svg/hover" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/assets/tc/img/svg/career.svg" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="vuejs.nuxt.types-notification-shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PROJECTS\FRONT\testnuxt\static\tc\img\svg" />
+      <recent name="C:\PROJECTS\FRONT\testnuxt\static" />
+      <recent name="C:\PROJECTS\FRONT\testnuxt\static\tc" />
+      <recent name="C:\PROJECTS\FRONT\testnuxt\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PROJECTS\FRONT\testnuxt\assets\tc\img\svg\hover" />
+      <recent name="C:\PROJECTS\FRONT\testnuxt\assets\tc\img\svg" />
+      <recent name="C:\PROJECTS\FRONT\testnuxt\assets" />
+      <recent name="C:\PROJECTS\FRONT\testnuxt\components" />
+      <recent name="C:\PROJECTS\FRONT\testnuxt\layouts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c568a1bb-faf3-44de-9d7f-78d300c69a7a" name="Default Changelist" comment="" />
+      <created>1603812904201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603812904201</updated>
+      <workItem from="1603812905267" duration="18139000" />
+      <workItem from="1603834531607" duration="14700000" />
+      <workItem from="1603853377123" duration="5891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603816520467">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1603816520467" />
+    <state x="523" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603831138048">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="523" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1603831138048" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603843049709">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1603843049709" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1603831262868">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1603831262868" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1603831148125">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1603831148125" />
+    <state width="1515" height="130" key="GridCell.Tab.0.bottom" timestamp="1603853547828">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="757" height="37" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1603851852539" />
+    <state width="1515" height="130" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1603853547828" />
+    <state width="1515" height="130" key="GridCell.Tab.0.center" timestamp="1603853547828">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="757" height="37" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1603851852539" />
+    <state width="1515" height="130" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1603853547828" />
+    <state width="1515" height="130" key="GridCell.Tab.0.left" timestamp="1603853547828">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="757" height="37" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1603851852539" />
+    <state width="1515" height="130" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1603853547828" />
+    <state width="1515" height="130" key="GridCell.Tab.0.right" timestamp="1603853547828">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="757" height="37" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1603851852539" />
+    <state width="1515" height="130" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1603853547828" />
+    <state x="277" y="62" key="SettingsEditor" timestamp="1603825963332">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1603825963332" />
+    <state x="477" y="150" width="581" height="534" key="find.popup" timestamp="1603857738961">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="477" y="150" width="581" height="534" key="find.popup/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1603841858270" />
+    <state x="477" y="150" width="581" height="534" key="find.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1603857738961" />
+    <state x="425" y="189" width="672" height="677" key="run.anything.popup" timestamp="1603826300770">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" width="672" height="677" key="run.anything.popup/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1603826300770" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1603857820839">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1603843306914" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1603857820839" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/layouts/default.vue</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
